@@ -1,0 +1,9 @@
+{
+  "name": "hoodzone-interactions",
+  "version": "1.2.0",
+  "private": true,
+  "description": "HOODZONE Discord HTTP Interactions Endpoint",
+  "main": "server.js",
+  "scripts": {"start":"node server.js","check":"node --check server.js","test":"node test.js"},
+  "engines": {"node": ">=20"}
+}
